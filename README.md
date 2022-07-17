@@ -38,6 +38,7 @@ Famous Chest X-ray Data Set to be used with Question 6 :
 * [ChestX-ray14](https://paperswithcode.com/dataset/chestx-ray14)
 * [NIH Chest X-rays](https://www.kaggle.com/datasets/nih-chest-xrays/data)
 * [Chest X-Ray Images (Pneumonia)](https://data.mendeley.com/datasets/rscbjbr9sj/2)
+<br/>
 Note : Not uploading Chest X Ray DataSet on GitHub due to huge size.
 
 
