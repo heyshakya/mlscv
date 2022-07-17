@@ -1,6 +1,3 @@
-https://github.com/natarajLilly
-
-
 # Machine Learning for Speech and Computer Vision (MLSCV)
 This GitHub Repository contains all the source codes for exercises and case studies for course Machine Learning for Speech and Computer Vision by Prof. [Nataraj K S](https://github.com/natarajLilly) at Department of Electronics & Communications Engineering, Indian Institute of Information Technology Dharwad, KA, IN
 
